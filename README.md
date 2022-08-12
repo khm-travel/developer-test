@@ -28,3 +28,7 @@ The [SQLite database](https://www.sqlite.org/index.html) should work with PHP ou
 - Code is readable, well structured and follows language conventions (clean)
 - Code has clear and meaningful comments and meaningful variable/function names (well documented)
 - Good user experience (changes contribute to usability of the form)
+
+## Run into issues?
+
+[Create a new issue](https://github.com/khm-travel/developer-test/issues) on the original repo & we'll help to resolve them. Send any questions to development@khmtravel.com.
