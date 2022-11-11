@@ -16,8 +16,8 @@ Fork this repo, make your changes and send a link to your public forked reposito
 - a custom CSS stylesheet
 - a SCSS/SASS build
 - a frontend framework like [Bootstrap](https://getbootstrap.com/) or [TailwindCSS](https://tailwindcss.com)
-3. Validate post request data
-4. Save form submissions to a database
+2. Validate post request data
+3. Save form submissions to a database
 
 ## Setup
 
