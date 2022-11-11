@@ -23,7 +23,7 @@ Fork this repo, make your changes and send a link to your public forked reposito
 
 You will need to run the project on a local or development server. You can use [PHP's built-in web server](https://phptherightway.com/#builtin_web_server) if you do not already have another option.
 
-The [SQLite database](https://www.sqlite.org/index.html) should work with PHP out of the box, but you can optionally install the libary if you prefer to interact with the database via CLI.
+The [SQLite database](https://www.sqlite.org/index.html) should work with PHP out of the box, but you can optionally install the libary if you prefer to interact with the database via CLI. [Resource](https://phptherightway.com/#pdo_extension).
 
 ## Evaluation criteria
 
