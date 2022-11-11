@@ -12,9 +12,12 @@ Fork this repo, make your changes and send a link to your public forked reposito
 
 ## Tasks
 
-1. Style the form with a custom CSS stylesheet, a SCSS/SASS build, or use a frontend framework like [Bootstrap](https://getbootstrap.com/) or [TailwindCSS](https://tailwindcss.com)
-2. Validate post request data
-3. Save form submissions to a database
+1. Style the form with any method, for example:
+- a custom CSS stylesheet
+- a SCSS/SASS build
+- a frontend framework like [Bootstrap](https://getbootstrap.com/) or [TailwindCSS](https://tailwindcss.com)
+3. Validate post request data
+4. Save form submissions to a database
 
 ## Setup
 
