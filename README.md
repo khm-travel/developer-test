@@ -30,7 +30,7 @@ In your email, describe your changes, detailing what's still left incompleted.
    - Make a server-side GET request to `https://api.tvmaze.com/search/shows?q={tv-show}`, for example: [https://api.tvmaze.com/search/shows?q=deadwood](https://api.tvmaze.com/search/shows?q=deadwood)
    - If the API returns no results, reject the submission and return the user to the form with a clear error message
    - Handle request failures (network errors, unexpected responses) gracefully using Guzzle's exception handling
-   - `rest-api.php` is loaded automatically by `insert-data.php` when it is present — no other wiring required
+   - `rest-api.php` is loaded automatically by `insert-data.php` when it is present and the `$task_four_completed` variable is set to true — no other wiring required
 
 
 ## Setup
