@@ -2,7 +2,7 @@
 
 A technical skills proficiency for prospective dev team candidates.
 
-> Thank you for taking the time to demonstrate your coding skills. We have created this test to get an idea of your level of proficiency in the LAMP web stack. All code you submit should be your own, and properly cited in comments if it is borrowed.
+> Thank you for taking the time to demonstrate your coding skills. We have created this test to get an idea of your level of proficiency in the LAMP web stack.
 
 ## Objective
 
