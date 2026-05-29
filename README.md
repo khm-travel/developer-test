@@ -10,8 +10,6 @@ Please spend no more than 1-2 hours completing select tasks of your choice. Prio
 
 Fork this repo, make your changes and send a link to your public forked repository to development@khmtravel.com
 
-In your email, describe your changes, detailing what's still left incompleted.
-
 ## Tasks
 
 1. Complete the server-side validation in `insert-data.php`:
